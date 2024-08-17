@@ -1,4 +1,4 @@
-Table of content
+Table of content:
 
 1.	Create a class timetable using HTML tables and CSS. Show the class timings, subjects, and days of the week. Use HTML to organize the information neatly and CSS to make it visually appealing. Keep it simple and easy to understand.
 	
